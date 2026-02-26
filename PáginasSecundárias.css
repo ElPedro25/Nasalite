@@ -1,0 +1,27 @@
+
+body {
+    margin: 0;
+ background: #5a7685;
+background: linear-gradient(271deg,rgba(90, 118, 133, 1) 0%, rgba(83, 115, 95, 1) 50%, rgba(235, 224, 141, 1) 100%);
+    
+    align-items: center;
+}
+
+h1 {
+    color: black;
+    font-size: 40px;
+}
+
+h3 {
+    color: black;
+    font-size: 25px;
+    margin-top: auto;
+    
+}
+
+button {
+    height: 50px;
+    width: 200px;
+    border-radius: 15px;
+    font-size: 20px;
+}
