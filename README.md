@@ -1,2 +1,2 @@
 # Nasalite
-Link: https://elpedro25.github.io/Nasalite/INDEX.HTML
+Link: https://elpedro25.github.io/Nasalite/
